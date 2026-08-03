@@ -62,6 +62,3 @@
   </a>
   <hr></hr>
 </div>
-<p align="center">
-  <strong>Feel free to check out my pinned repositories below!</strong>
-</p>
